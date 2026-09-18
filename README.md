@@ -36,7 +36,7 @@ npm run build    # production build
 
 ## Deployment
 
-Deployed on Vercel: [live link]
+Deployed on Vercel: [\[live link\]](https://movie-explorer-three-dusky.vercel.app/)
 
 ## Project Structure
 
